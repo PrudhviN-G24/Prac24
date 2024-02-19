@@ -28,4 +28,11 @@
         <shortDescription>quoteUpdate</shortDescription>
         <value>orderaccount</value>
     </labels>
+    <labels>
+        <fullName>quoteUpdaterecord</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>isrecordupdated</shortDescription>
+        <value>QUOTE1</value>
+    </labels>
 </CustomLabels>
