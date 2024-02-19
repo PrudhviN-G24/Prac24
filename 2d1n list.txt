@@ -1,7 +1,8 @@
-190
-171
-138
-105
-93
-100
-99
+hello 
+hi
+good
+morning
+good
+night
+sleep
+well
