@@ -13,7 +13,7 @@ test2</value>
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>Argument</shortDescription>
-        <value>1023;1024</value>
+        <value>1023</value>
     </labels>
     <labels>
         <fullName>quoteUpdate</fullName>
