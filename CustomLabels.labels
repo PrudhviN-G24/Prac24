@@ -49,5 +49,11 @@
         <shortDescription>isrecordupdated</shortDescription>
         <value>q1</value>
     </labels> 
-
+<labels>
+        <fullName>test</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>isrecordupdated</shortDescription>
+        <value>test</value>
+    </labels> 
 </CustomLabels>
