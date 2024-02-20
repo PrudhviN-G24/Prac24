@@ -1,0 +1,22 @@
+diff --git a/CustomLabels.labels b/CustomLabels.labels
+index b09f020..1f25f7a 100644
+--- a/CustomLabels.labels
++++ b/CustomLabels.labels
+@@ -34,13 +34,5 @@
+         <protected>false</protected>
+         <shortDescription>isrecordupdated</shortDescription>
+         <value>QUOTE1</value>
+-</labels>
+-    <labels>
+-        <fullName>wer</fullName>
+-        <language>en_US</language>
+-        <protected>false</protected>
+-        <shortDescription>isrecordupdated</shortDescription>
+-        <value>q1</value>
+-    </labels> 
+-
++    </labels>
+ </CustomLabels>
+diff --git a/newadd.xml b/newadd.xml
+deleted file mode 100644
+index e69de29..0000000

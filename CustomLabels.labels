@@ -35,6 +35,13 @@
         <shortDescription>isrecordupdated</shortDescription>
         <value>QUOTE1</value>
 </labels>
+<labels>
+        <fullName>qrecordupdate</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>recordupdated</shortDescription>
+        <value>Q1</value>
+</labels>
     <labels>
         <fullName>wer</fullName>
         <language>en_US</language>
