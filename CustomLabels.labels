@@ -25,7 +25,7 @@
         <fullName>order</fullName>
         <language>en_US</language>
         <protected>true</protected>
-        <shortDescription>quoteUpdate</shortDescription>
+        <shortDescription>updating the quoterecord</shortDescription>
         <value>orderaccount</value>
     </labels>
     <labels>
