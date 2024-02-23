@@ -4,7 +4,7 @@
         <fullName>AccountUpdate</fullName>
         <language>en_US</language>
         <protected>true</protected>
-        <shortDescription>AccountUpdate</shortDescription>
+        <shortDescription>updatedaccount</shortDescription>
         <value>test;test2</value>
     </labels>
     <labels>
@@ -41,6 +41,13 @@
         <protected>false</protected>
         <shortDescription>recordupdated</shortDescription>
         <value>Q1</value>
+</labels>
+<labels>
+        <fullName>qrecordupdate</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>recordupdated</shortDescription>
+        <value>Q2</value>
 </labels>
     <labels>
         <fullName>wer</fullName>
