@@ -1,0 +1,16 @@
+<root>
+    <labels>
+        <fullName>Argument</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Argument</shortDescription>
+        <value>1023:1024</value>
+    </labels>
+    <labels>
+        <fullName>AccountUpdate</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>AccountUpdate</shortDescription>
+        <value>test-test2</value>
+    </labels>
+</root>
