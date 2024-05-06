@@ -5,7 +5,7 @@
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>updatedaccount</shortDescription>
-        <value>test;test2</value>
+        <value>test;test2;test3</value>
     </labels>
     <labels>
         <fullName>Argument</fullName>
