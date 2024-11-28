@@ -1,4 +1,5 @@
 cucumber
 carrot
 beans
-cauliflower
+pumpkin
+beet root
